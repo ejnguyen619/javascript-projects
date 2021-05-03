@@ -3,7 +3,7 @@
 ## Description
 Projects made using JavaScript. Purpose is to gain practice and skills necessary to build real applications, websites, game, components, etc.
 
-## Projects
+## Projects List
 Meditation App\
 Virtual Keyboard\
 eCommerce Shopping Cart\
@@ -13,3 +13,5 @@ PIN Pad\
 Landing Page\
 Rock Paper Scissors Game\
 Tic Tac Toe Game\
+
+## Project Details 
