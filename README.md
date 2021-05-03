@@ -12,6 +12,6 @@ Issue Tracker\
 PIN Pad\
 Landing Page\
 Rock Paper Scissors Game\
-Tic Tac Toe Game\
+Tic Tac Toe Game
 
 ## Project Details 
