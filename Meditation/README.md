@@ -1,10 +1,14 @@
 # Meditation App
 Provide ambient sounds for meditation. Can choose between different timers and sounds.
 
-## To Do
+## Tasks
 - Add user interface
-- Add JavaScript functionality
+- Play button functionality: change background, timer, progress bar
+- Timer buttons functionality: change timer
+- Sound buttons functionality: change background, reset timer, progress bar
 
 ## Future Ideas
-- Customize timer duration
-- Add more audio options
+- Always display timer in correct format
+- Custom timer duration
+- Additional audio and video options
+- Alert when timer reaches zero
