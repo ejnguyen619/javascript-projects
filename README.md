@@ -23,14 +23,14 @@ Rock Paper Scissors Game: Website | Source
 Tic Tac Toe Game: Website | Source
 
 ## Progress
-Meditation App: In Development
-Virtual Keyboard: Not Started
-eCommerce Shopping Cart: Not Started
-Weather App: Not Started
-Issue Tracker: Not Started
-PIN Pad: Not Started
-Landing Page: Not Started
-Rock Paper Scissors Game: Not Started
+Meditation App: In Development\
+Virtual Keyboard: Not Started\
+eCommerce Shopping Cart: Not Started\
+Weather App: Not Started\
+Issue Tracker: Not Started\
+PIN Pad: Not Started\
+Landing Page: Not Started\
+Rock Paper Scissors Game: Not Started\
 Tic Tac Toe Game: Not Started
 
 ## Project Ideas
