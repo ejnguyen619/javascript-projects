@@ -23,7 +23,7 @@ Rock Paper Scissors Game: Website | Source
 Tic Tac Toe Game: Website | Source
 
 ## Progress
-Meditation App: In Development\
+Meditation App: Complete\
 Virtual Keyboard: Not Started\
 eCommerce Shopping Cart: Not Started\
 Weather App: Not Started\
