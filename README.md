@@ -6,7 +6,7 @@ Projects made using JavaScript. Purpose is to gain practice and skills necessary
 ## Projects List
 Meditation App: [Website](https://ejnguyen619.github.io/javascript-projects/Meditation/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Meditation)
 
-Virtual Keyboard: Website | Source
+Virtual Keyboard: [Website](https://ejnguyen619.github.io/javascript-projects/Virtual%20Keyboard/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Virtual%20Keyboard)
 
 eCommerce Shopping Cart: Website | Source
 
@@ -24,7 +24,7 @@ Tic Tac Toe Game: Website | Source
 
 ## Progress
 Meditation App: Complete\
-Virtual Keyboard: Not Started\
+Virtual Keyboard: In Progress\
 eCommerce Shopping Cart: Not Started\
 Weather App: Not Started\
 Issue Tracker: Not Started\
