@@ -39,7 +39,8 @@ const app = () => {
   timeSelect.forEach(option => {
     option.addEventListener('click', function(){
       fakeDuration = this.getAttribute('data-time');
-      timeDisplay.textContent = `${Math.floor(fakeDuration/60)}:${Math.floor(fakeDuration%60)}`;
+      timeDisplay.textContent = `${Math.floor(fakeDuration/60)}:${checkSeconds(fakeDuration%60)}`;
+      resetTime();
     });
   });
 
@@ -54,13 +55,25 @@ const app = () => {
       video.pause();
       play.src = './svg/play.svg';
     }
-  }
+  };
+
+  //Function to display seconds in correct format
+  const checkSeconds = seconds => {
+    if(seconds < 10) return `0${Math.floor(seconds)}`;
+    return Math.floor(seconds);
+  };
+
+  //Function to reset timer and progress bar
+  const resetTime = () => {
+    song.currentTime = 0;
+    outline.style.strokeDashoffset = outlineLength;
+  };
 
   //Animate circle
   song.ontimeupdate = () => {
     let currentTime = song.currentTime;
     let elapsed = fakeDuration - currentTime;
-    let seconds = Math.floor(elapsed % 60);
+    let seconds = checkSeconds(elapsed % 60);
     let minutes = Math.floor(elapsed / 60);
 
     //Animate the bar

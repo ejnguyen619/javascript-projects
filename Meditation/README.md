@@ -8,7 +8,6 @@ Provide ambient sounds for meditation. Can choose between different timers and s
 - Sound buttons functionality: change background, reset timer, progress bar
 
 ## Future Ideas
-- Always display timer in correct format
 - Custom timer duration
 - Additional audio and video options
 - Alert when timer reaches zero
