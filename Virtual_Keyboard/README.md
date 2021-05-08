@@ -3,9 +3,8 @@ Responsive and touch-ready virtual keyboard that can be used in modern browsers.
 
 ## Tasks
 - Create reference for keyboard
-- Add JavaScript functionality
-&nbsp;1. Add buttons functionality
-&nbsp;2. Render HTML page
+- Render HTML page
+- Add buttons functionality
 
 ## Future Ideas
 - Blank

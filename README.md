@@ -6,7 +6,7 @@ Projects made using JavaScript. Purpose is to gain practice and skills necessary
 ## Projects List
 Meditation App: [Website](https://ejnguyen619.github.io/javascript-projects/Meditation/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Meditation)
 
-Virtual Keyboard: [Website](https://ejnguyen619.github.io/javascript-projects/Virtual%20Keyboard/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Virtual%20Keyboard)
+Virtual Keyboard: [Website](https://ejnguyen619.github.io/javascript-projects/Virtual_Keyboard/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Virtual_Keyboard)
 
 eCommerce Shopping Cart: Website | Source
 
