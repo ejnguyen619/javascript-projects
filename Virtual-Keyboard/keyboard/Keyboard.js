@@ -11,7 +11,7 @@ const Keyboard = {
     },
 
     // Handle keyboard events
-    eventHandler: {
+    eventHandlers: {
         oninput: null,
         onclose: null
     },
@@ -31,13 +31,24 @@ const Keyboard = {
         this.elements.keysContainer = document.createElement("div");
 
         // Setup main elements
-        this.elements.main.classList.add("keyboard", "1keyboard--hidden");
+        this.elements.main.classList.add("keyboard", "keyboard--hidden");
         this.elements.keysContainer.classList.add("keyboard__keys");
         this.elements.keysContainer.appendChild(this._createKeys());
+
+        this.elements.keys = this.elements.keysContainer.querySelectorAll('.keyboard__key');
 
         // Add to DOM
         this.elements.main.appendChild(this.elements.keysContainer);
         document.body.appendChild(this.elements.main);
+
+        //Automatically use keyboard
+        document.querySelectorAll('.use-keyboard-input').forEach(element => {
+            element.addEventListener('focus', () => {
+                this.open(element.value, currentValue => {
+                    element.value = currentValue;
+                });
+            });
+        });
     },
 
     // Create HTML for each key
@@ -144,19 +155,34 @@ const Keyboard = {
 
     // Trigger oninput or onclose
     _triggerEvent(handlerName) {
-        console.log('Event Triggered: Event Name: ' + handlerName);
+        if(typeof this.eventHandlers[handlerName] == 'function') {
+            this.eventHandlers[handlerName](this.properties.value);
+        }
     },
 
     _toggleCapsLock() {
-        console.log('Caps Lock Toggled!');
+        this.properties.capsLock = !this.properties.capsLock;
+
+        // Toggle keyboard layout between caps and not caps
+        for(const key of this.elements.keys) {
+            if(key.childElementCount === 0) {
+                key.textContent = this.properties.capsLock ? key.textContent.toUpperCase() : key.textContent.toLowerCase();
+            }
+        }
     },
 
     open(initialValue, oninput, onclose) {
-
+        this.properties.value = initialValue || "";
+        this.eventHandlers.oninput = oninput;
+        this.eventHandlers.onclose = onclose;
+        this.elements.main.classList.remove('keyboard--hidden');
     },
 
     close() {
-
+        this.value = '';
+        this.eventHandlers.oninput = oninput;
+        this.eventHandlers.onclose = onclose;
+        this.elements.main.classList.add('keyboard--hidden');
     }
 };
 

@@ -24,7 +24,7 @@ Tic Tac Toe Game: Website | Source
 
 ## Progress
 Meditation App: Complete\
-Virtual Keyboard: In Progress\
+Virtual Keyboard: Complete\
 eCommerce Shopping Cart: Not Started\
 Weather App: Not Started\
 Issue Tracker: Not Started\

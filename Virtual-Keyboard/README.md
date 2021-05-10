@@ -7,4 +7,4 @@ Responsive and touch-ready virtual keyboard that can be used in modern browsers.
 - Add buttons functionality
 
 ## Future Ideas
-- Blank
+- Integrate keyboard with another project
