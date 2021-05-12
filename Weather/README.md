@@ -1,10 +1,11 @@
 # Weather App
-Uses Dark Sky API to fetch weather informatiton.
+Uses OpenWeatherMap API to fetch weather informatiton.
 
 ## Tasks
 - Add user interface
 - Add geolocation tracking
-- Integrate Dark Sky API
+- Integrate OpenWeatherMapAPI
 - Display relevant weather information
 
 ## Future Ideas
+- Change location manually
