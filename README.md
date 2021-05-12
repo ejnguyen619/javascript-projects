@@ -10,7 +10,7 @@ Virtual Keyboard: [Website](https://ejnguyen619.github.io/javascript-projects/Vi
 
 eCommerce Shopping Cart: Website | Source
 
-Weather App: Website | Source
+Weather App: [Website](https://ejnguyen619.github.io/javascript-projects/Weather/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Weather)
 
 Issue Tracker: Website | Source
 
@@ -26,7 +26,7 @@ Tic Tac Toe Game: Website | Source
 Meditation App: Complete\
 Virtual Keyboard: Complete\
 eCommerce Shopping Cart: Not Started\
-Weather App: Not Started\
+Weather App: In Progress\
 Issue Tracker: Not Started\
 PIN Pad: Not Started\
 Landing Page: Not Started\
