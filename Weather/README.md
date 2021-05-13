@@ -1,5 +1,5 @@
 # Weather App
-Uses OpenWeatherMap API to fetch weather informatiton.
+Uses OpenWeatherMap API to fetch weather information.
 
 ## Tasks
 - Add user interface
