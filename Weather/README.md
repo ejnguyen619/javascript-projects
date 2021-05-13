@@ -8,5 +8,8 @@ Uses OpenWeatherMap API to fetch weather information.
 - Display relevant weather information
 - Change between Celsius and Fahrenheit
 
+## Dependencies
+- OpenWeatherMap API
+
 ## Future Ideas
 - Change location manually
