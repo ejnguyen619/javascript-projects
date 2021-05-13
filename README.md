@@ -12,7 +12,7 @@ eCommerce Shopping Cart: Website | Source
 
 Weather App: [Website](https://ejnguyen619.github.io/javascript-projects/Weather/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Weather)
 
-Issue Tracker: Website | Source
+Issue Tracker: [Website](https://ejnguyen619.github.io/javascript-projects/Issue-Tracker/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Issue-Tracker)
 
 PIN Pad: Website | Source
 
@@ -27,7 +27,7 @@ Meditation App: Complete\
 Virtual Keyboard: Complete\
 eCommerce Shopping Cart: Not Started\
 Weather App: Complete\
-Issue Tracker: Not Started\
+Issue Tracker: In Progress\
 PIN Pad: Not Started\
 Landing Page: Not Started\
 Rock Paper Scissors Game: Not Started\
