@@ -27,7 +27,7 @@ Meditation App: Complete\
 Virtual Keyboard: Complete\
 eCommerce Shopping Cart: Not Started\
 Weather App: Complete\
-Issue Tracker: In Progress\
+Issue Tracker: Complete\
 PIN Pad: Not Started\
 Landing Page: Not Started\
 Rock Paper Scissors Game: Not Started\
