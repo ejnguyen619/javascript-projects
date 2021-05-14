@@ -30,6 +30,34 @@ document.querySelector('#issueInputForm').addEventListener('submit', e => {
     e.preventDefault();
 });
 
+const setStatusClosed = (id) => {
+    let issues = JSON.parse(localStorage.getItem('issues'));
+
+    if(issues != null) {
+        issues.forEach(element => {
+            if(element.id == id) element.status = 'Closed';
+        });
+    }
+
+    localStorage.setItem('issues', JSON.stringify(issues));
+
+    fetchIssues();
+};
+
+const deleteIssue = (id) => {
+    let issues = JSON.parse(localStorage.getItem('issues'));
+
+    if(issues != null) {
+        issues.forEach(element => {
+            if(element.id == id) issues.splice(issues.indexOf(element), 1);
+        });
+    }
+
+    localStorage.setItem('issues', JSON.stringify(issues));
+
+    fetchIssues();   
+}
+
 const fetchIssues = () => {
     let issues = JSON.parse(localStorage.getItem('issues'));
     let issuesList = document.querySelector('#issuesList');
@@ -44,8 +72,8 @@ const fetchIssues = () => {
                                         <h3>${element.description}</h3>
                                         <p><span class="glyphicon glyphicon-time"></span>${element.severity}</p>
                                         <p><span class="glyphicon glyphicon-user"></span>${element.assignedTo}</p>
-                                        <a href="#" onclick="setStatusClosed(${element.id})" class="btn btn-warning">Close</a>
-                                        <a href="#" onclick="deletedIssue(${element.id})" class="btn btn-danger">Delete</a>
+                                        <a href="#" onclick="setStatusClosed('${element.id}')" class="btn btn-warning">Close</a>
+                                        <a href="#" onclick="deleteIssue('${element.id}')" class="btn btn-danger">Delete</a>
                                     </div>`;
         });        
     }
