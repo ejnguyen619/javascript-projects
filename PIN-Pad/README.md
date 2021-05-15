@@ -2,7 +2,8 @@
 PIN Pad that check PIN codes for their correctness.
 
 ## Tasks
-- Create user interface
+- Add HTML reference to key pads
+- Generate key pads using JavaScript
 - Add buttons functionality
 - Redirect page if PIN Code correct
 
