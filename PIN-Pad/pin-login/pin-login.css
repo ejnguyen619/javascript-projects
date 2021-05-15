@@ -28,7 +28,7 @@
     cursor: default;
 }
 
-.pin-login__text__error {
+.pin-login__text--error {
     color: #901818;
     background: #ffb3b3;
     animation: loginError;

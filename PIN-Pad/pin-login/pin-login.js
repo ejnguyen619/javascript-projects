@@ -6,7 +6,7 @@ class PinLogin {
             textDisplay: el.querySelector('.pin-login__text')
         };
 
-        this.loginEnpoint = loginEndpoint;
+        this.loginEndpoint = loginEndpoint;
         this.redirectTo = redirectTo;
         this.maxNumbers = maxNumbers;
         this.value = '';
@@ -37,4 +37,59 @@ class PinLogin {
             }
         });
     }
+
+    _handleKeyPress(key) {
+        this.el.textDisplay.classList.remove("pin-login__text--error");
+        switch(key) {
+            case 'backspace':
+                this.value = this.value.substring(0, this.value.length - 1);
+                break;
+            case 'done':
+                this._attemptLogin();
+                break;
+            default:
+                if(this.value.length < this.maxNumbers && !isNaN(key)) {
+                    this.value += key;
+                }
+                break;
+        }
+
+        this._updateValueText();
+    }
+
+    _updateValueText() {
+        this.el.textDisplay.value = "_".repeat(this.value.length);
+    }
+
+    // Fetch API require local web server: npx serve
+    // _attemptLogin() {
+    //     if(this.value.length > 0) {
+    //         fetch(this.loginEndpoint, {
+    //             method: 'post',
+    //             headers: {
+    //                 "Content-Type": "application/x-www-form-urlencoded"
+    //             },
+    //             body: `pincode=${this.value}`
+    //         }).then(response => {
+    //             if(response.status === 200){
+    //                 window.location.href = this.redirectTo;
+    //             } else {
+    //                 this.el.textDisplay.classList.add("pin-login__text--error");
+    //             }
+    //         });
+    //     }
+    // }
+
+    // Fetch API placeholder for demo purposes only
+    _attemptLogin() {
+        if(this.value.length > 0){
+            if(this.value === "1234"){
+                window.location.href = this.redirectTo;
+            } 
+            else{
+                this.el.textDisplay.classList.add("pin-login__text--error");
+            } 
+        }
+    }
+
 }
