@@ -14,7 +14,7 @@ Weather App: [Website](https://ejnguyen619.github.io/javascript-projects/Weather
 
 Issue Tracker: [Website](https://ejnguyen619.github.io/javascript-projects/Issue-Tracker/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Issue-Tracker)
 
-PIN Pad: Website | Source
+PIN Pad: [Website](https://ejnguyen619.github.io/javascript-projects/PIN-Pad/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/PIN-Pad)
 
 Landing Page: Website | Source
 
@@ -28,7 +28,7 @@ Virtual Keyboard: Complete\
 eCommerce Shopping Cart: Not Started\
 Weather App: Complete\
 Issue Tracker: Complete\
-PIN Pad: Not Started\
+PIN Pad: In Progress\
 Landing Page: Not Started\
 Rock Paper Scissors Game: Not Started\
 Tic Tac Toe Game: Not Started
