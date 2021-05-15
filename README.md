@@ -28,7 +28,7 @@ Virtual Keyboard: Complete\
 eCommerce Shopping Cart: Not Started\
 Weather App: Complete\
 Issue Tracker: Complete\
-PIN Pad: In Progress\
+PIN Pad: Complete\
 Landing Page: Not Started\
 Rock Paper Scissors Game: Not Started\
 Tic Tac Toe Game: Not Started
