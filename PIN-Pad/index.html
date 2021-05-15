@@ -11,22 +11,18 @@
 </head>
 <body>
     <h1>Pin Login w/ HTML, CSS & JS</h1>
-    <div class="pin-login">
+    <div class="pin-login" id="mainPinLogin">
         <input type="password" readonly class='pin-login__text'>
-        <div class="pin-login__numpad">
-            <!-- <div class="pin-login__key">1</div>
-            <div class="pin-login__key">2</div>
-            <div class="pin-login__key">3</div><br>
-            <div class="pin-login__key">4</div>
-            <div class="pin-login__key">5</div>
-            <div class="pin-login__key">6</div><br>
-            <div class="pin-login__key">7</div>
-            <div class="pin-login__key">8</div>
-            <div class="pin-login__key">9</div><br>
-            <div class="pin-login__key material-icons">backspace</div>
-            <div class="pin-login__key">0</div>
-            <div class="pin-login__key material-icons">done</div> -->
-        </div>
+        <div class="pin-login__numpad"></div>
     </div>
+    <script src="pin-login/pin-login.js"></script>
+    <script>
+        new PinLogin({
+            el: document.querySelector('#mainPinLogin'),
+            loginEndpoint: "login.php",
+            redirectTo: "dashboard.html",
+            maxNumbers: 4
+        });
+    </script>
 </body>
 </html>
