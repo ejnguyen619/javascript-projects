@@ -4,5 +4,8 @@ Interactive landing page that shows time and user's name. Uses local storage to 
 ## Tasks
 - Create project structure and get assets
 - Display static HTML page
+- Display current time
+- Set background and greeting based on time of day
 
 ## Future Improvements
+- Add weather information
