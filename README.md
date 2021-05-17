@@ -16,7 +16,7 @@ Issue Tracker: [Website](https://ejnguyen619.github.io/javascript-projects/Issue
 
 PIN Pad: [Website](https://ejnguyen619.github.io/javascript-projects/PIN-Pad/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/PIN-Pad)
 
-Landing Page: Website | Source
+Landing Page: [Website](https://ejnguyen619.github.io/javascript-projects/Landing-Page/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Landing-Page)
 
 Rock Paper Scissors Game: Website | Source
 
@@ -29,7 +29,7 @@ eCommerce Shopping Cart: Not Started\
 Weather App: Complete\
 Issue Tracker: Complete\
 PIN Pad: Complete\
-Landing Page: Not Started\
+Landing Page: Complete\
 Rock Paper Scissors Game: Not Started\
 Tic Tac Toe Game: Not Started
 
