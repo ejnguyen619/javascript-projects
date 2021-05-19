@@ -20,7 +20,7 @@ Landing Page: [Website](https://ejnguyen619.github.io/javascript-projects/Landin
 
 Rock Paper Scissors Game: Website | Source
 
-Tic Tac Toe Game: Website | Source
+Tic Tac Toe Game: Website | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Tic-Tac-Toe)
 
 ## Progress
 Meditation App: Complete\
@@ -31,6 +31,6 @@ Issue Tracker: Complete\
 PIN Pad: Complete\
 Landing Page: Complete\
 Rock Paper Scissors Game: Not Started\
-Tic Tac Toe Game: Not Started
+Tic Tac Toe Game: In Progress
 
 ## Project Ideas
