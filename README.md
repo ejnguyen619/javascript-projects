@@ -31,6 +31,6 @@ Issue Tracker: Complete\
 PIN Pad: Complete\
 Landing Page: Complete\
 Rock Paper Scissors Game: Not Started\
-Tic Tac Toe Game: In Progress
+Tic Tac Toe Game: Complete
 
 ## Project Ideas

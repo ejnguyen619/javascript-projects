@@ -10,3 +10,4 @@ Tic Tac toe that uses basic AI and Minimax algorithm.
 
 ## Future Improvements
 - Toggle between ai difficulty
+- Two human players option
