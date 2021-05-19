@@ -9,3 +9,4 @@ Tic Tac toe that uses basic AI and Minimax algorithm.
 - JavaScript: minimax algorithm
 
 ## Future Improvements
+- Toggle between ai difficulty

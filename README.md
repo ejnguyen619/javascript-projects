@@ -20,7 +20,7 @@ Landing Page: [Website](https://ejnguyen619.github.io/javascript-projects/Landin
 
 Rock Paper Scissors Game: Website | Source
 
-Tic Tac Toe Game: Website | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Tic-Tac-Toe)
+Tic Tac Toe Game: [Website](https://ejnguyen619.github.io/javascript-projects/Tic-Tac-Toe/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Tic-Tac-Toe)
 
 ## Progress
 Meditation App: Complete\

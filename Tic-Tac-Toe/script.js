@@ -50,6 +50,7 @@ const gameOver = gameWon => {
     for (var i = 0; i < cells.length; i++) {
 		cells[i].removeEventListener('click', turnClick, false);
 	}
+    declareWinner(gameWon.player == humanPlayer ? "You win!" : "You lose.");
 };
 
 // Add mark on board
@@ -60,9 +61,40 @@ const turn = (squareId, player) => {
     if(gameWon) gameOver(gameWon);
 };
 
-// Human player turn
+// Return all empty squares
+const emptySquares = () => {
+    return origBoard.filter(s => typeof s == 'number');
+};
+
+// Basic ai
+const bestSpot = () => {
+    return emptySquares()[0];
+};
+
+// Declare winner of game
+const declareWinner = who => {
+    document.querySelector('.endgame').style.display = 'block';
+    document.querySelector('.endgame .text').innerText = who;
+};
+
+// Check if all squares are filled
+const checkTie = () => {
+    if(emptySquares().length == 0) {
+        for (var i = 0; i < cells.length; i++) {
+            cells[i].style.backgroundColor = 'green';
+            cells[i].removeEventListener('click', turnClick, false);
+        }
+        declareWinner('Tie Game!');
+        return true;
+    }
+};
+
+// Turn progression
 const turnClick = square => {
-    turn(square.target.id, humanPlayer);
+    if(typeof origBoard[square.target.id] === 'number') {
+        turn(square.target.id, humanPlayer);
+        if(!checkTie()) turn(bestSpot(), aiPlayer);   
+    }
 };
 
 startGame();
