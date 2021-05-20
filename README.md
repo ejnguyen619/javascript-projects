@@ -18,7 +18,7 @@ PIN Pad: [Website](https://ejnguyen619.github.io/javascript-projects/PIN-Pad/) |
 
 Landing Page: [Website](https://ejnguyen619.github.io/javascript-projects/Landing-Page/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Landing-Page)
 
-Rock Paper Scissors Game: Website | Source
+Rock Paper Scissors Game: Website | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Rock-Paper-Scissors)
 
 Tic Tac Toe Game: [Website](https://ejnguyen619.github.io/javascript-projects/Tic-Tac-Toe/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Tic-Tac-Toe)
 
@@ -30,7 +30,7 @@ Weather App: Complete\
 Issue Tracker: Complete\
 PIN Pad: Complete\
 Landing Page: Complete\
-Rock Paper Scissors Game: Not Started\
+Rock Paper Scissors Game: In Progress\
 Tic Tac Toe Game: Complete
 
 ## Project Ideas
