@@ -11,3 +11,5 @@ Rock paper scissors game.
 
 ## Future Improvements
 - Add two players game option
+- Add varying computer difficulties
+- Reset game button

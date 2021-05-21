@@ -18,11 +18,11 @@ PIN Pad: [Website](https://ejnguyen619.github.io/javascript-projects/PIN-Pad/) |
 
 Landing Page: [Website](https://ejnguyen619.github.io/javascript-projects/Landing-Page/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Landing-Page)
 
-Rock Paper Scissors Game: Website | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Rock-Paper-Scissors)
+Rock Paper Scissors Game: [Website](https://ejnguyen619.github.io/javascript-projects/Rock-Paper-Scissors/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Rock-Paper-Scissors)
 
 Tic Tac Toe Game: [Website](https://ejnguyen619.github.io/javascript-projects/Tic-Tac-Toe/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Tic-Tac-Toe)
 
-## Progress
+## Projects Status
 Meditation App: Complete\
 Virtual Keyboard: Complete\
 eCommerce Shopping Cart: Not Started\
@@ -30,7 +30,7 @@ Weather App: Complete\
 Issue Tracker: Complete\
 PIN Pad: Complete\
 Landing Page: Complete\
-Rock Paper Scissors Game: In Progress\
+Rock Paper Scissors Game: Complete\
 Tic Tac Toe Game: Complete
 
 ## Project Ideas
