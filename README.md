@@ -8,7 +8,7 @@ Meditation App: [Website](https://ejnguyen619.github.io/javascript-projects/Medi
 
 Virtual Keyboard: [Website](https://ejnguyen619.github.io/javascript-projects/Virtual-Keyboard/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Virtual-Keyboard)
 
-eCommerce Shopping Cart: Website | Source
+eCommerce Shopping Cart: Website | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Shopping-Cart)
 
 Weather App: [Website](https://ejnguyen619.github.io/javascript-projects/Weather/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Weather)
 
@@ -25,7 +25,7 @@ Tic Tac Toe Game: [Website](https://ejnguyen619.github.io/javascript-projects/Ti
 ## Projects Status
 Meditation App: Complete\
 Virtual Keyboard: Complete\
-eCommerce Shopping Cart: Not Started\
+eCommerce Shopping Cart: In Progress\
 Weather App: Complete\
 Issue Tracker: Complete\
 PIN Pad: Complete\
