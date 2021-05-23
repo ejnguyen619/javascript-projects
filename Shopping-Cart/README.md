@@ -6,7 +6,7 @@ Used on online shops and eCommerce sites. Uses Contentful to store product infor
 - Create navigation bar
 - Create hero section: background image and banner
 - Create products section and product reference
-- Create shopping cart and cart items reference
+- Create shopping cart and cart item reference
 - JavaScript logic
 
 ## Dependencies-Technologies
