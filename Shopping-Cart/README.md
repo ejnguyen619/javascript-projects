@@ -7,7 +7,7 @@ Used on online shops and eCommerce sites. Uses Contentful to store product infor
 - Create hero section: background image and banner
 - Create products section and product reference
 - Create shopping cart and cart item reference
-- JavaScript logic
+- Retrieve products data and display on page
 
 ## Dependencies-Technologies
 - Contentful: headless CMS to store product information
