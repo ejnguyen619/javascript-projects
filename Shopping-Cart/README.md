@@ -11,6 +11,8 @@ Used on online shops and eCommerce sites. Uses Contentful to store product infor
 - Add product to cart
 - Update cart from localStorage
 - Open and close cart button
+- Implement buttons for each item in cart
+- Setup data in Contentful
 
 ## Dependencies-Technologies
 - Contentful: headless CMS to store product information
