@@ -13,9 +13,11 @@ Used on online shops and eCommerce sites. Uses Contentful to store product infor
 - Open and close cart button
 - Implement buttons for each item in cart
 - Setup data in Contentful
+- Host application in Netlify
 
 ## Dependencies-Technologies
 - Contentful: headless CMS to store product information
 - Netlify: host website
 
 ## Future Improvements
+- Divide app.js into multiple files based on class
