@@ -20,6 +20,8 @@ Landing Page: [Website](https://ejnguyen619.github.io/javascript-projects/Landin
 
 Rock Paper Scissors Game: [Website](https://ejnguyen619.github.io/javascript-projects/Rock-Paper-Scissors/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Rock-Paper-Scissors)
 
+Timeline: [Website](https://ejnguyen619.github.io/javascript-projects/Timeline/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Timeline)
+
 Tic Tac Toe Game: [Website](https://ejnguyen619.github.io/javascript-projects/Tic-Tac-Toe/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Tic-Tac-Toe)
 
 ## Projects Status
@@ -31,6 +33,7 @@ Issue Tracker: Complete\
 PIN Pad: Complete\
 Landing Page: Complete\
 Rock Paper Scissors Game: Complete\
+Timeline: Complete\
 Tic Tac Toe Game: Complete
 
 ## Project Ideas
