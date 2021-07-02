@@ -22,6 +22,8 @@ Rock Paper Scissors Game: [Website](https://ejnguyen619.github.io/javascript-pro
 
 Timeline: [Website](https://ejnguyen619.github.io/javascript-projects/Timeline/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Timeline)
 
+Calculator: [Website](https://ejnguyen619.github.io/javascript-projects/Calculator/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Calculator)
+
 Tic Tac Toe Game: [Website](https://ejnguyen619.github.io/javascript-projects/Tic-Tac-Toe/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Tic-Tac-Toe)
 
 ## Projects Status
@@ -34,6 +36,8 @@ PIN Pad: Complete\
 Landing Page: Complete\
 Rock Paper Scissors Game: Complete\
 Timeline: Complete\
+Calculator: Complete\
 Tic Tac Toe Game: Complete
 
 ## Project Ideas
+Prorate Bill Calculator
