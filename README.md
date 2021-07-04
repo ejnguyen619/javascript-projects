@@ -26,18 +26,11 @@ Calculator: [Website](https://ejnguyen619.github.io/javascript-projects/Calculat
 
 Tic Tac Toe Game: [Website](https://ejnguyen619.github.io/javascript-projects/Tic-Tac-Toe/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Tic-Tac-Toe)
 
-## Projects Status
-Meditation App: Complete\
-Virtual Keyboard: Complete\
-eCommerce Shopping Cart: Complete\
-Weather App: Complete\
-Issue Tracker: Complete\
-PIN Pad: Complete\
-Landing Page: Complete\
-Rock Paper Scissors Game: Complete\
-Timeline: Complete\
-Calculator: Complete\
-Tic Tac Toe Game: Complete
+Register Form Validator: [Website](https://ejnguyen619.github.io/javascript-projects/Register-Form-Validator/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Register-Form-Validator)
 
 ## Project Ideas
-Prorate Bill Calculator
+Prorate Bill Calculator\
+
+Sortable List\
+
+Exchange Rate Calculator
