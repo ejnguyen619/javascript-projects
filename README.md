@@ -28,9 +28,9 @@ Tic Tac Toe Game: [Website](https://ejnguyen619.github.io/javascript-projects/Ti
 
 Register Form Validator: [Website](https://ejnguyen619.github.io/javascript-projects/Register-Form-Validator/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Register-Form-Validator)
 
+Currency Converter: [Website](https://ejnguyen619.github.io/javascript-projects/Currency-Converter/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Currency-Converter)
+
 ## Project Ideas
-Prorate Bill Calculator\
+Prorate Bill Calculator
 
-Sortable List\
-
-Exchange Rate Calculator
+Sortable List
