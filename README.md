@@ -30,6 +30,8 @@ Register Form Validator: [Website](https://ejnguyen619.github.io/javascript-proj
 
 Currency Converter: [Website](https://ejnguyen619.github.io/javascript-projects/Currency-Converter/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Currency-Converter)
 
+Text-to-Speech: [Website](https://ejnguyen619.github.io/javascript-projects/Text-to-Speech/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Text-to-Speech)
+
 ## Project Ideas
 Prorate Bill Calculator
 
