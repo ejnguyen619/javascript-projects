@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Drag and drop Control Palette HTML Driver</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header id="topheader"><b>Drag and drop Control Palette HTML Driver</b></header>
+  <div class="container">
+    <div id="palette">
+      <div id="rectangle" draggable="true"><svg>
+        <rect width="30" height="30" x="15" y="15"/>
+      </svg></div>
+      <div id="circle" draggable="true"><svg>
+        <circle cx="30" cy="30" r="15"/>
+      </svg></div>
+      <div id="triangle" draggable="true"><svg>
+        <polygon points="30,15 45,45 15,45"/>
+      </svg></div>
+      <div id="arrow" draggable="true"><svg>
+        <polygon points="30,15 45,30 30,45 30,38 15,38 15,22 30,22"/>
+      </svg></div>
+    </div>
+    <div id="target">
+      <svg id="space">
+      </svg>
+      <button type="button" onclick="reset()">RESET!</button>
+    </div>
+  </div>
+</body>
+<script src="scripts.js"></script>
+</html>

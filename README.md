@@ -32,6 +32,8 @@ Currency Converter: [Website](https://ejnguyen619.github.io/javascript-projects/
 
 Text-to-Speech: [Website](https://ejnguyen619.github.io/javascript-projects/Text-to-Speech/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Text-to-Speech)
 
+DragDrop: [Website](https://ejnguyen619.github.io/javascript-projects/DragDrop/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/DragDrop)
+
 ## Project Ideas
 Prorate Bill Calculator
 
