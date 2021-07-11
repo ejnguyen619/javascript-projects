@@ -38,3 +38,13 @@ DragDrop: [Website](https://ejnguyen619.github.io/javascript-projects/DragDrop/)
 Prorate Bill Calculator
 
 Sortable List
+
+JSON to CSV Converter
+
+Password Generator
+
+Image Scanner
+
+Survey App
+
+Chat App
