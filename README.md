@@ -37,16 +37,18 @@ Virtual Keyboard: [Website](https://ejnguyen619.github.io/javascript-projects/Vi
 Weather App: [Website](https://ejnguyen619.github.io/javascript-projects/Weather/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Weather)
 
 ## Project Ideas
-Prorate Bill Calculator
+Prorate Bill Calculator (Small)
 
-Sortable List
+Sortable List (Small)
 
-JSON to CSV Converter
+Salary to Hourly Wage Converter (Small)
 
-Password Generator
+Password Generator (Medium)
 
-Image Scanner
+Image Scanner (Medium)
 
-Survey App
+Survey App (Large)
 
-Chat App
+Chat App (Large)
+
+RPG Game (Large)
