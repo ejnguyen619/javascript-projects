@@ -1,10 +1,12 @@
 # JavaScript Projects
 
 ## Description
-The following list contains projects/applications made using mainly JavaScript. The purpose is to gain practice and skills necessary to build real applications, websites, game, components, etc.
+The following list contains projects/applications made using mainly JavaScript. JavaScript frameworks such as React.js are included. The purpose is to gain practice and skills necessary to build real applications, websites, game, components, etc.
 
 ## Projects List
 Calculator: [Website](https://ejnguyen619.github.io/javascript-projects/Calculator/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Calculator)
+
+Character Counter: [Website](https://char-counter.netlify.app/) | [Source](https://github.com/ejnguyen619/char-counter)
 
 Currency Converter: [Website](https://ejnguyen619.github.io/javascript-projects/Currency-Converter/) | [Source](https://github.com/ejnguyen619/javascript-projects/tree/main/Currency-Converter)
 
